@@ -1,5 +1,3 @@
-package string.class_problems;
-
 import java.util.*;
 
 public class Q2 {
@@ -53,3 +51,5 @@ public class Q2 {
             (isPalindromeArrayReversal(x) ? "Palindrome" : "Not Palindrome"));
     }
 }
+
+

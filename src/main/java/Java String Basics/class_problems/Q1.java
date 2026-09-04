@@ -1,5 +1,3 @@
-package string.class_problems;
-
 import java.util.*;
 
 public class Q1 {
@@ -51,3 +49,5 @@ public class Q1 {
         System.out.println("Win %: "+(w*100.0/5));
     }
 }
+
+

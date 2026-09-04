@@ -1,5 +1,3 @@
-package string.class_problems;
-
 import java.util.*;
 
 public class Q5 {
@@ -25,3 +23,5 @@ public class Q5 {
         System.out.println("Reversed Name: "+reverseCustomerName(name));
     }
 }
+
+

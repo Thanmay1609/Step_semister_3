@@ -1,5 +1,3 @@
-package string.class_problems;
-
 public class Q3 {
 
     static String getBmiStatus(double b) {
@@ -33,3 +31,5 @@ public class Q3 {
         printWellnessReport(h,w);
     }
 }
+
+

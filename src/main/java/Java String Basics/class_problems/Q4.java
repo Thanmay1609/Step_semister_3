@@ -1,5 +1,3 @@
-package string.class_problems;
-
 import java.util.*;
 
 public class Q4 {
@@ -37,3 +35,5 @@ public class Q4 {
             System.out.println("First Non-Repeating Character: '"+a+"'");
     }
 }
+
+
