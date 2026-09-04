@@ -1,5 +1,3 @@
-package classes_and_objects.assigment_problems;
-
 public class L1 {
 
     public static void main(String[] args) {
@@ -15,3 +13,4 @@ class Book {
     String title;
     double price;
 }
+

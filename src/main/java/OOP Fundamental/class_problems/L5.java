@@ -1,5 +1,3 @@
-package classes_and_objects.class_problems;
-
 public class L5 {
 
     public static void main(String[] args) {
@@ -18,3 +16,4 @@ class Applicant {
         totalApplicants++;
     }
 }
+

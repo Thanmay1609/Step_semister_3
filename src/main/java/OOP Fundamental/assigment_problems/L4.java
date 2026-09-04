@@ -1,5 +1,3 @@
-package classes_and_objects.assigment_problems;
-
 public class L4 {
 
     public static void main(String[] args) {
@@ -18,3 +16,4 @@ class Product {
         this.productName = productName;
     }
 }
+

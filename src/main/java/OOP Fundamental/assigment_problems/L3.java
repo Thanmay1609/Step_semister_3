@@ -1,5 +1,3 @@
-package classes_and_objects.assigment_problems;
-
 public class L3 {
 
     public static void main(String[] args) {
@@ -16,3 +14,4 @@ class Employee {
     double salary;
     boolean permanent;
 }
+

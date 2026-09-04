@@ -1,5 +1,3 @@
-package classes_and_objects.assigment_problems;
-
 public class L5 {
 
     public static void main(String[] args) {
@@ -19,3 +17,4 @@ class Order {
         totalOrders++;
     }
 }
+

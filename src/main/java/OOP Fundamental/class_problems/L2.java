@@ -1,5 +1,3 @@
-package classes_and_objects.class_problems;
-
 public class L2 {
 
     public static void main(String[] args) {
@@ -24,3 +22,4 @@ class HostelRoom {
     String roomNo;
     int occupied;
 }
+
