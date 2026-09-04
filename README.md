@@ -1,6 +1,21 @@
 ## Date: 04-09-2026
 
 **Today's Work:**
+- Completed Session 4 covering Programming Fundamentals (Arrays, Two Pointers, Prefix Products/Sums, Kadane's Algorithm, Binary Search on Rotated Array).
+- Implemented and pushed Class Practice problems (L1 to L5) under `Programming Fundamental/class_problems`.
+- Implemented and pushed Assignment problems (A1 to A5) under `Programming Fundamental/assigment_problems`.
+
+**Next Session Plan:**
+- Proceed with Session 5 topics and assignments.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 04-09-2026
+
+**Today's Work:**
 - Completed Session 3 covering Classes, Objects, Instance Variables, Constructors, and Static Members.
 - Implemented and pushed Class Practice problems (L1 to L5) under `OOP Fundamental/class_problems`.
 - Implemented and pushed Assignment problems (L1 to L5) under `OOP Fundamental/assigment_problems`.
