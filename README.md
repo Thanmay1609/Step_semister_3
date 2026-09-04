@@ -6,7 +6,7 @@
 - Implemented and pushed Assignment problems (L1 to L5) under `classes_and_objects.assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 4 topics and assignments.
+- Programming Fundamental
 
 **Issues Faced:**
 - None
@@ -21,7 +21,7 @@
 - Implemented and pushed Assignment problems (Q1 to Q5) under `string_methods.assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 3 topics and assignments.
+- OOP Fundamental
 
 **Issues Faced:**
 - None
