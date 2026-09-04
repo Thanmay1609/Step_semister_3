@@ -1,5 +1,3 @@
-package string_methods.assigment_problems;
-
 import java.util.Scanner;
 
 public class Q5 {
@@ -83,3 +81,4 @@ public class Q5 {
         sc.close();
     }
 }
+

@@ -1,5 +1,3 @@
-package string_methods.class_problems;
-
 import java.util.Scanner;
 
 public class Q3 {
@@ -33,3 +31,4 @@ public class Q3 {
         sc.close();
     }
 }
+
