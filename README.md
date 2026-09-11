@@ -1,3 +1,18 @@
+## Date: 11-09-2026
+
+**Today's Work:**
+- Completed Session 5 covering OOP Fundamentals (Arrays, Objects, In-place Updates, Threshold Filtering, Top-K Extraction, Normalization, Ranking & Custom Classes).
+- Implemented and pushed Class Practice problems (P1 to P5) under `OOP Fundamental/class_problems`.
+- Implemented and pushed Assignment problems (Assign1 to Assign5) under `OOP Fundamental/assigment_problems`.
+
+**Next Session Plan:**
+- Proceed with Session 6 topics and assignments.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 04-09-2026
 
 **Today's Work:**
