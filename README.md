@@ -6,7 +6,7 @@
 - Implemented and pushed Assignment problems (Assign_M1 to Assign_M5) under `Classes and Objects Revision/assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 7 topics and assignments.
+- Session 7 topics yet to be shared
 
 **Issues Faced:**
 - None
@@ -21,7 +21,7 @@
 - Implemented and pushed Assignment problems (Assign1 to Assign5) under `OOP Fundamental/assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 6 topics and assignments.
+- Classes and Objects Revision (Encapsulation, State Tracking, Validation, Method Invocations, and Object Interactions)
 
 **Issues Faced:**
 - None
@@ -36,7 +36,7 @@
 - Implemented and pushed Assignment problems (A1 to A5) under `Programming Fundamental/assigment_problems`.
 
 **Next Session Plan:**
-- OOP Fundamental
+- OOP Fundamentals (Arrays, Objects, In-place Updates, Threshold Filtering, Top-K Extraction, Normalization, Ranking & Custom Classes).
 
 **Issues Faced:**
 - None
@@ -51,7 +51,7 @@
 - Implemented and pushed Assignment problems (L1 to L5) under `OOP Fundamental/assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 4 topics and assignments.
+- Programming Fundamentals (Arrays, Two Pointers, Prefix Products/Sums, Kadane's Algorithm, Binary Search on Rotated Array).
 
 **Issues Faced:**
 - None
@@ -66,7 +66,7 @@
 - Implemented and pushed Assignment problems (Q1 to Q5) under `String Operations & Performance/assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 3 topics and assignments.
+- Classes, Objects, Instance Variables, Constructors, and Static Members.
 
 **Issues Faced:**
 - None
@@ -81,7 +81,7 @@
 - Implemented and pushed Assignment problems (Q1 to Q5) under `Java String Basics/assigment_problems`.
 
 **Next Session Plan:**
-- String Operations & Performance
+- String Methods, StringBuilder operations, character analysis, parsing, and formatting.
 
 **Issues Faced:**
 - None
