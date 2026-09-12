@@ -1,3 +1,18 @@
+## Date: 12-09-2026
+
+**Today's Work:**
+- Completed Session 6 covering Classes and Objects Revision (Encapsulation, State Tracking, Validation, Method Invocations, and Object Interactions).
+- Implemented and pushed Class Practice problems (M1 to M5) under `Classes and Objects Revision/class_problems`.
+- Implemented and pushed Assignment problems (Assign_M1 to Assign_M5) under `Classes and Objects Revision/assigment_problems`.
+
+**Next Session Plan:**
+- Proceed with Session 7 topics and assignments.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 11-09-2026
 
 **Today's Work:**
