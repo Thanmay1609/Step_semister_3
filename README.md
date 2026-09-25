@@ -1,3 +1,17 @@
+## Date: 25-09-2026
+
+**Today's Work:**
+- Completed Session 7 covering Encapsulation & Access Control (Private Fields, Getters/Setters, Data Validation, Defending Object Invariants, and Access Modifiers).
+- Implemented and pushed Class Practice problems (P1 to P5) under `Encapsulation & Access Control/class_problems`.
+- Implemented and pushed Assignment problems (A1 to A5) under `Encapsulation & Access Control/assigment_problems`.
+
+**Next Session Plan:**
+- Proceed with Session 8 topics and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 12-09-2026
 
 **Today's Work:**
@@ -87,3 +101,4 @@
 - None
 
 ---
+
