@@ -20,7 +20,7 @@
 - Implemented and pushed Assignment problems (Assign_M1 to Assign_M5) under `Classes and Objects Revision/assigment_problems`.
 
 **Next Session Plan:**
-- Session 7 topics yet to be shared
+- Encapsulation & Access Control (Private Fields, Getters/Setters, Data Validation, Defending Object Invariants, and Access Modifiers).
 
 **Issues Faced:**
 - None
