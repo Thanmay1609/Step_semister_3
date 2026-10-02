@@ -1,3 +1,17 @@
+## Date: 02-10-2026
+
+**Today's Work:**
+- Completed Session 8 covering OOP Fundamentals (Inheritance, Polymorphism, Method Overriding, Abstract Classes/Interfaces, Dynamic Method Dispatch).
+- Implemented and pushed Class Practice problems (P1 to P5) under `OOP Fundamental/class_problems`.
+- Implemented and pushed Assignment problems (A1 to A5) under `OOP Fundamental/assigment_problems`.
+
+**Next Session Plan:**
+- Proceed with Session 9 topics and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 25-09-2026
 
 **Today's Work:**
@@ -101,4 +115,5 @@
 - None
 
 ---
+
 
