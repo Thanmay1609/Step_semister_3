@@ -20,8 +20,7 @@
 - Implemented and pushed Assignment problems (A1 to A5) under `Encapsulation & Access Control/assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 8 topics and assignments.
-
+Classes and Objects Revision (Encapsulation, State Tracking, Validation, Method Invocations, and Object Interactions).
 **Issues Faced:**
 - None
 
