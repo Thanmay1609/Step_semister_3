@@ -20,7 +20,7 @@
 - Implemented and pushed Assignment problems (A1 to A5) under `OOP Fundamental/assigment_problems`.
 
 **Next Session Plan:**
-- Proceed with Session 9 topics and assignments.
+- OOP Introduction, Object Class Methods, Inner Classes, and UML Diagrams (Class Hierarchies, equals/toString/hashCode overrides, Member & Static Nested Classes, Interfaces, and UML Modeling).
 
 **Issues Faced:**
 - None
