@@ -1,3 +1,17 @@
+## Date: 09-10-2026
+
+**Today's Work:**
+- Completed Session 9 covering OOP Introduction, Object Class Methods, Inner Classes, and UML Diagrams (Class Hierarchies, equals/toString/hashCode overrides, Member & Static Nested Classes, Interfaces, and UML Modeling).
+- Implemented and pushed Class Practice problems (P1 to P5) under `OOP Introduction,Object Class Methods, Inner Classes and UML Diagrams/class_problems`.
+- Implemented and pushed Assignment problems (A1 to A5) under `OOP Introduction,Object Class Methods, Inner Classes and UML Diagrams/assigment_problems`.
+
+**Next Session Plan:**
+- Proceed with Session 10 topics and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 02-10-2026
 
 **Today's Work:**
@@ -114,5 +128,6 @@ Classes and Objects Revision (Encapsulation, State Tracking, Validation, Method 
 - None
 
 ---
+
 
 
